@@ -48,22 +48,33 @@ Sign Up for Cloud9 and create a basic Rails project.
    to break anything, and even if you do you can just scrap the project
    and start a new one
 
-Type **\$ ruby -v** and **\$ rails -v** into your command line       (remember, the $    just represents the command prompt). You should      get back versions    similar to 2.0.0 and 4.0.0 (1.9.3 and 3.2.x       should be okay to work    with, but your Rails version will matter       when we cover Rails more in    depth). If you didn't get those       values, you'll need to go back to the    Installations Unit and get      everything installed properly.
+Type **$ ruby -v** and **$ rails -v** into your command line       (remember, the $    just represents the command prompt). You should      get back versions    similar to 2.0.0 and 4.0.0 (1.9.3 and 3.2.x       should be okay to work    with, but your Rails version will matter       when we cover Rails more in    depth). If you didn't get those       values, you'll need to go back to the    Installations Unit and get      everything installed properly.
 
 You should also be able to use **$ which git** and see the directory    where you installed Git.
 
 ###Intro to Ruby
 **Required**
+
 What is an "interpreted" language?
+
 What is IRB?
+
 What are Objects?
+
 What are Methods?
+
 What are Classes?
+
 What are Blocks?
+
 What is an Array?
+
 What is an Iterator?
+
 What are hashes?
+
 What is a library?
+
 What is a gem?
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
