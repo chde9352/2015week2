@@ -89,7 +89,7 @@ Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1
 ###Weekly Project
 You need to complete all the problems on the RubyMonk ([starting with this one](http://rubymonk.com/learning/books/1-ruby-primer/problems/15-select-random-elements-from-an-array)) and upload them to your deliverables Github Repo in the RubyMonk folder. If you get stuck, refer to the GitHub information in the [Odin project’s walkthrough](http://www.theodinproject.com/web-development-101/html-css).
 
-You should be able to run **$ ruby ./rubmonkychalllengename.rb** for each file and get them to work. Verify every solution in your group is correct by using git to clone the repo to your c9 machine and then using running each file as ruby from the command line on c9.
+You should be able to run **$ ruby ./rubmonkychalllengename.rb** for each file and get them to work. Verify every solution is correct by using git to clone the repo to your c9 machine and then using running each file as ruby from the command line on c9.
 
 “Correct” in this case means that the code executes and produces the output you expected.
 
