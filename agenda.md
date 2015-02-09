@@ -8,4 +8,5 @@
     3. read the material/resources
     4. start working through the assignments
 - team formations
+  - one repo per team (you can all fork it after you are done so you all have it)
 - resolving merge conflicts
