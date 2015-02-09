@@ -9,7 +9,7 @@ Read the [intro to back end on the Odin Project](http://www.theodinproject.com/w
 Sign Up for Cloud9 and create a basic Rails project.
 
 ###Intro to Ruby
-**Required**
+####Required
 
 What is an "interpreted" language?<br>
 What is IRB?<br>
