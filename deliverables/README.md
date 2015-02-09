@@ -30,11 +30,10 @@ Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1
 ###Weekly Project
 You need to complete all the problems on the RubyMonk ([starting with this one](http://rubymonk.com/learning/books/1-ruby-primer/problems/9-calculator)) and upload them to your deliverables Github Repo in the RubyMonk folder. If you get stuck, refer to the GitHub information in the [Odin project’s walkthrough](http://www.theodinproject.com/web-development-101/html-css).
 
-Put each problem solution into the appropriate file in `ruby_monk_solutions`
+Put each problem solution into the appropriate file in `ruby_monk_problems`
 
 ####Optional & Resources
-
- - Read and complete the [Ruby in 100 minutes guide] (http://tutorials.jumpstartlab.com/projects/ruby\_in\_100_minutes.html)
+ - Read and complete the [Ruby in 100 minutes guide](http://tutorials.jumpstartlab.com/projects/ruby\_in\_100_minutes.html)
  - [Ruby beginners guide](https://hackhands.com/beginners-guide-ruby/)
  - Do the first Ruby exercise (Bob) on [Exercism.io](http://exercism.io/) and respond to any
    feedback you receieve.  Provide a link to your submission on
