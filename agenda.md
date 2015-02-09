@@ -1,0 +1,4 @@
+- resolving merge conflicts
+- context for Ruby/Rails
+- context for Cloud9
+- review this week's material
