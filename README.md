@@ -97,9 +97,9 @@ If it does not work, *don’t despair*!  Code that has “bugs” (a “bug” i
 
 ####Optional & Resources
 
- - Read and complete the Ruby in 100 minutes guide
- - Ruby beginners guide
- - Do the first Ruby exercise (Bob) on Exercism.io and respond to any
+ - Read and complete the [Ruby in 100 minutes guide] (http://tutorials.jumpstartlab.com/projects/ruby\_in\_100_minutes.html)
+ - [Ruby beginners guide](https://hackhands.com/beginners-guide-ruby/)
+ - Do the first Ruby exercise (Bob) on [Exercism.io](http://exercism.io/) and respond to any
    feedback you receieve.  Provide a link to your submission on
    Exercism.
 
