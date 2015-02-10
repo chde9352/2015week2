@@ -9,6 +9,9 @@
     2. review the assigments
     3. read the material/resources
     4. start working through the assignments
+  - RubyMonk verifying solutions
+
+
 - team formations
   - all still have individual repos
 - resolving merge conflicts
