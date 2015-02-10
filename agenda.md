@@ -1,3 +1,4 @@
+- intro mentors
 - review past week
 - backend vs. frontend
 - context for Ruby/Rails
