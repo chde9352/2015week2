@@ -54,7 +54,6 @@ Type **$ ruby -v** and **$ rails -v** into your command line       (remember, th
 You should also be able to use **$ which git** and see the directory    where you installed Git.
 
 ###Intro to Ruby
-###Intro to Ruby
 ####Required
 
 What is an "interpreted" language?<br>
