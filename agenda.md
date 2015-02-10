@@ -1,3 +1,5 @@
+- review past week
+- backend vs. frontend
 - context for Ruby/Rails
 - context for Cloud9
 - review this week's material
