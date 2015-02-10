@@ -54,28 +54,19 @@ Type **$ ruby -v** and **$ rails -v** into your command line       (remember, th
 You should also be able to use **$ which git** and see the directory    where you installed Git.
 
 ###Intro to Ruby
-**Required**
+###Intro to Ruby
+####Required
 
-What is an "interpreted" language?
-
-What is IRB?
-
-What are Objects?
-
-What are Methods?
-
-What are Classes?
-
-What are Blocks?
-
-What is an Array?
-
-What is an Iterator?
-
-What are hashes?
-
-What is a library?
-
+What is an "interpreted" language?<br>
+What is IRB?<br>
+What are Objects?<br>
+What are Methods?<br>
+What are Classes?<br>
+What are Blocks?<br>
+What is an Array?<br>
+What is an Iterator?<br>
+What are hashes?<br>
+What is a library?<br>
 What is a gem?
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
