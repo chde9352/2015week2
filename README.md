@@ -79,10 +79,10 @@ Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1
 ###Weekly Project
 You need to complete all the problems on the RubyMonk ([starting with this one](http://rubymonk.com/learning/books/1-ruby-primer/problems/9-calculator)) and upload them to your deliverables Github Repo in the RubyMonk folder. If you get stuck, refer to the GitHub information in the [Odin project’s walkthrough](http://www.theodinproject.com/web-development-101/html-css).
 
-You should be able to run **$ ruby ./rubmonkychalllengename.rb** for each file and get them to work. Verify every solution is correct by using git to clone the repo to your c9 machine and then requiring each file in an irb session on c9.
+You should be able to run `$ ruby ./rubmonkychalllengename.rb` for each file and get them to work. Verify every solution is correct by using git to clone the repo to your c9 machine and then requiring each file in an irb session on c9.
 
-- `irb`
-- `require './my_file.rb`
+- `$ irb`
+- `$ require './my_file.rb`
 - `...use the class or method here`
 
 “Correct” in this case means that the code executes and produces the output you expected.  Don't worry about doing this for the files that only assign a variable (variables aren't exported from files when you require them).
