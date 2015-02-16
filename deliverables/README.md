@@ -11,7 +11,7 @@ Sign Up for Cloud9 and create a basic Rails project.
 ###Intro to Ruby
 ####Required
 
-What is an "interpreted" language?<br> An interpreted language is a programming language for which most of its implementations execute instructions directly, without previously compiling a program into machine-language instructions.
+What is an "interpreted" language?<br> Programming languages generally fall into one of two categories: Compiled or Interpreted. With a compiled language, code you enter is reduced to a set of machine-specific instructions before being saved as an executable file. With interpreted languages, the code is saved in the same format that you entered. Compiled programs generally run faster than interpreted ones because interpreted programs must be reduced to machine instructions at runtime. However, with an interpreted language you can do things that cannot be done in a compiled language. For example, interpreted programs can modify themselves by adding or changing functions at runtime. It is also usually easier to develop applications in an interpreted environment because you don't have to recompile your application each time you want to test a small section.
 
 What is IRB?<br>
 
